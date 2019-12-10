@@ -19,7 +19,7 @@ class App extends React.Component {
     return (
     <div className="App">
       <button className='btn btn-danger'>HELP ME</button>
-      <GoatCorral goats={this.state.goats} />
+      <GoatCorral butts={this.state.goats} />
     </div>
     );
   }
